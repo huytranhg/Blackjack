@@ -14,6 +14,6 @@ Blackjack Monogame DirectX
 
 ***Source Code***
 - Source code of this program can be found at github: https://github.com/huytranhg/Blackjack .
-- Visual Studio Community 2015 and Monogame Framework 3.5 are used to developed the game.
+- Visual Studio Community 2015, Monogame Framework 3.5, and Piskel 0.12.0 are used to developed the game.
 
 ---Developed and documented by Huy Tran---
