@@ -14,7 +14,7 @@ Blackjack Monogame DirectX
 
 ***Source Code***
 - Source code of this program can be found at github: https://github.com/huytranhg/Blackjack
-- Visual Studio Community 2015, Monogame Framework 3.5, and Piskel 0.12.0 were used to develop the game.
+- Visual Studio 2015 Community, Monogame Framework 3.5, and Piskel 0.12.0 were used to develop the game.
 - The algorithm to shuffle cards is Fisher-Yates shuffle: https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle
 
 ---Developed and documented by Huy Tran---
