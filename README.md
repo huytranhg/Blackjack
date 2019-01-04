@@ -1,6 +1,8 @@
 # Blackjack
 Blackjack Monogame DirectX
 
+Blackjack's built can be download from this link: https://1drv.ms/u/s!AoP1RrY3fZ23bdZDRnjRPFgOtE4
+
 ***Prerequisites***
 - Blackjack can be played on Windows 7 or higher version of Windows OS.
 - It requires Microsoft .NET Framework 4.5 or higher version to be run.
